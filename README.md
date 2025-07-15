@@ -4,7 +4,7 @@
 
 This repository features an interactive Power BI dashboard designed to analyze and visualize sales data for "Amazone." The dashboard offers a comprehensive overview of sales performance, customer segments, payment and shipping modes, and geographic sales distribution, enabling data-driven business insights.
 
-![Amazone Sales Dashboard](image1)
+[![Amazone Sales Dashboard](image1)](https://github.com/Astitva13/Amazon-Sales-Power-BI-Dashboard/blob/main/Amazon_Sales_Dashboard.jpg)
 
 ---
 
