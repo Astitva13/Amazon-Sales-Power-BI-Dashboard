@@ -1,4 +1,4 @@
-# Amazone Sales Dashboard - Power BI Project
+# Amazon Sales Dashboard - Power BI Project
 
 ## Project Overview
 
